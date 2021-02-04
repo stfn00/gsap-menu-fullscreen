@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+    <title>Fullcreen menu with Gsap</title>
+
+    <!-- Enable customization for iOS -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <!-- Chrome, Firefox OS, Opera and Vivaldi -->
+    <meta name="theme-color" content="#fff">
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#fff">
+    <!-- iOS Safari -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="#fff">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="assets/build/src/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="assets/build/src/img/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+    <!-- Header -->
+    <header class="header">
+        <!-- Btn menu -->
+        <div class="menu-btn" data-target="#menu">
+            <div class="hamburger">
+                <div class="hamburger__inner"></div>
+            </div>
+            <span>Menu</span>
+        </div>
+        <!-- Logo -->
+        <img src="assets/build/src/img/logo.svg" alt="Logo" class="logo">
+    </header>
+
+    <!-- Navigation menu -->
+    <nav class="menu" id="menu">
+        <div class="menu__bg menu__bg--one"></div>
+        <div class="menu__bg menu__bg--two"></div>
+        <div class="menu__container">
+            <!-- Hero image -->
+            <div class="menu__img"></div>
+            <!-- Links -->
+            <div class="menu__links-container">
+                <ul class="menu__links">
+                    <li class="menu__links__item">
+                        <a href="#!">Home</a>
+                    </li>
+                    <li class="menu__links__item">
+                        <a href="#!">About</a>
+                    </li>
+                    <li class="menu__links__item">
+                        <a href="#!">Works</a>
+                    </li>
+                    <li class="menu__links__item">
+                        <a href="#!">Blog</a>
+                    </li>
+                    <li class="menu__links__item">
+                        <a href="#!">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <link rel="stylesheet" href="./assets/build/css/main.css">
+    <script src="./assets/build/js/main.js"></script>
+</body>
+
+</html>

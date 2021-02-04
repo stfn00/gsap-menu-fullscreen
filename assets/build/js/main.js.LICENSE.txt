@@ -1,0 +1,150 @@
+/*!
+ * CSSPlugin 3.6.0
+ * https://greensock.com
+ *
+ * Copyright 2008-2021, GreenSock. All rights reserved.
+ * Subject to the terms at https://greensock.com/standard-license or for
+ * Club GreenSock members, the agreement issued with that membership.
+ * @author: Jack Doyle, jack@greensock.com
+*/
+
+/*!
+ * Font Awesome Free 5.15.2 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+
+/*!
+ * GSAP 3.6.0
+ * https://greensock.com
+ *
+ * @license Copyright 2008-2021, GreenSock. All rights reserved.
+ * Subject to the terms at https://greensock.com/standard-license or for
+ * Club GreenSock members, the agreement issued with that membership.
+ * @author: Jack Doyle, jack@greensock.com
+*/
+
+/*!
+ * ScrollTrigger 3.6.0
+ * https://greensock.com
+ *
+ * @license Copyright 2008-2021, GreenSock. All rights reserved.
+ * Subject to the terms at https://greensock.com/standard-license or for
+ * Club GreenSock members, the agreement issued with that membership.
+ * @author: Jack Doyle, jack@greensock.com
+*/
+
+/*! ../img/favicon.ico */
+
+/*! ../img/logo.svg */
+
+/*! ../sass/main.scss */
+
+/*! ./../../../timers-browserify/main.js */
+
+/*! ./../../../webpack/buildin/global.js */
+
+/*! ./../process/browser.js */
+
+/*! ./../webpack/buildin/global.js */
+
+/*! ./CSSPlugin.js */
+
+/*! ./app */
+
+/*! ./gsap-core.js */
+
+/*! @fortawesome/fontawesome-free/js/brands */
+
+/*! @fortawesome/fontawesome-free/js/fontawesome */
+
+/*! @fortawesome/fontawesome-free/js/regular */
+
+/*! @fortawesome/fontawesome-free/js/solid */
+
+/*! exports provided: CSSPlugin, default, _getBBox, _createElement, checkPrefix */
+
+/*! exports provided: GSCache, Animation, Timeline, Tween, PropTween, gsap, Power0, Power1, Power2, Power3, Power4, Linear, Quad, Cubic, Quart, Quint, Strong, Elastic, Back, SteppedEase, Bounce, Sine, Expo, Circ, TweenMax, TweenLite, TimelineMax, TimelineLite, default, wrap, wrapYoyo, distribute, random, snap, normalize, getUnit, clamp, splitColor, toArray, mapRange, pipe, unitize, interpolate, shuffle, _getProperty, _numExp, _numWithUnitExp, _isString, _isUndefined, _renderComplexString, _relExp, _setDefaults, _removeLinkedListItem, _forEachName, _sortPropTweensByPriority, _colorStringFilter, _replaceRandom, _checkPlugin, _plugins, _ticker, _config, _roundModifier, _round, _missingPlugin, _getSetter, _getCache */
+
+/*! exports provided: ScrollTrigger, default */
+
+/*! exports provided: default */
+
+/*! exports provided: gsap, default, CSSPlugin, TweenMax, TweenLite, TimelineMax, TimelineLite, Power0, Power1, Power2, Power3, Power4, Linear, Quad, Cubic, Quart, Quint, Strong, Elastic, Back, SteppedEase, Bounce, Sine, Expo, Circ */
+
+/*! gsap */
+
+/*! gsap/ScrollTrigger */
+
+/*! no exports provided */
+
+/*! no static exports found */
+
+/*! setimmediate */
+
+/*!************************!*\
+  !*** ./src/js/main.js ***!
+  \************************/
+
+/*!**************************!*\
+  !*** ./src/img/logo.svg ***!
+  \**************************/
+
+/*!****************************!*\
+  !*** ./src/sass/main.scss ***!
+  \****************************/
+
+/*!*****************************!*\
+  !*** ./src/img/favicon.ico ***!
+  \*****************************/
+
+/*!*****************************!*\
+  !*** ./src/js/app/index.js ***!
+  \*****************************/
+
+/*!***********************************!*\
+  !*** (webpack)/buildin/global.js ***!
+  \***********************************/
+
+/*!************************************!*\
+  !*** ./node_modules/gsap/index.js ***!
+  \************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/gsap/CSSPlugin.js ***!
+  \****************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/gsap/gsap-core.js ***!
+  \****************************************/
+
+/*!*****************************************!*\
+  !*** ./node_modules/process/browser.js ***!
+  \*****************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/gsap/ScrollTrigger.js ***!
+  \********************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/timers-browserify/main.js ***!
+  \************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/setimmediate/setImmediate.js ***!
+  \***************************************************/
+
+/*!****************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/js/solid.js ***!
+  \****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/js/brands.js ***!
+  \*****************************************************************/
+
+/*!******************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/js/regular.js ***!
+  \******************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/js/fontawesome.js ***!
+  \**********************************************************************/
